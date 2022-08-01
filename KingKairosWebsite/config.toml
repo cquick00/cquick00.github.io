@@ -1,0 +1,4 @@
+baseURL = 'https://kingkairos.com/'
+languageCode = 'en-us'
+title = 'King Kairos'
+theme = 'hugo-PaperMod'
