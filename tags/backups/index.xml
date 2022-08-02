@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>backups on King Kairos</title>
-    <link>https://kingkairos.com/tags/backups/</link>
+    <link>http://kingkairos.com/tags/backups/</link>
     <description>Recent content in backups on King Kairos</description>
     <image>
-      <url>https://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kingkairos.com/tags/backups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://kingkairos.com/tags/backups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backing it Up</title>
-      <link>https://kingkairos.com/posts/backing-it-up/</link>
+      <link>http://kingkairos.com/posts/backing-it-up/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kingkairos.com/posts/backing-it-up/</guid>
+      <guid>http://kingkairos.com/posts/backing-it-up/</guid>
       <description>Starting to take proper backups of my machines for ease of transitioning from one machine to another</description>
     </item>
     
