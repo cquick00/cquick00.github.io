@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>website on King Kairos</title>
-    <link>http://kingkairos.com/tags/website/</link>
+    <link>//kingkairos.com/tags/website/</link>
     <description>Recent content in website on King Kairos</description>
     <image>
-      <url>http://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://kingkairos.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="//kingkairos.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Website</title>
-      <link>http://kingkairos.com/posts/creating-a-website/</link>
+      <link>//kingkairos.com/posts/creating-a-website/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://kingkairos.com/posts/creating-a-website/</guid>
+      <guid>//kingkairos.com/posts/creating-a-website/</guid>
       <description>My initial experience trying to create a website</description>
     </item>
     
