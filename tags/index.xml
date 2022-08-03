@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on King Kairos</title>
-    <link>//kingkairos.com/tags/</link>
+    <link>https://kingkairos.com/tags/</link>
     <description>Recent content in Tags on King Kairos</description>
     <image>
-      <url>//kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="//kingkairos.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kingkairos.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>backups</title>
-      <link>//kingkairos.com/tags/backups/</link>
+      <link>https://kingkairos.com/tags/backups/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>//kingkairos.com/tags/backups/</guid>
+      <guid>https://kingkairos.com/tags/backups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>//kingkairos.com/tags/github/</link>
+      <link>https://kingkairos.com/tags/github/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>//kingkairos.com/tags/github/</guid>
+      <guid>https://kingkairos.com/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>//kingkairos.com/tags/python/</link>
+      <link>https://kingkairos.com/tags/python/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>//kingkairos.com/tags/python/</guid>
+      <guid>https://kingkairos.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>//kingkairos.com/tags/website/</link>
+      <link>https://kingkairos.com/tags/website/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>//kingkairos.com/tags/website/</guid>
+      <guid>https://kingkairos.com/tags/website/</guid>
       <description></description>
     </item>
     
