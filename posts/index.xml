@@ -9,7 +9,16 @@
       <link>https://kingkairos.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kingkairos.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kingkairos.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Craft Beer Log</title>
+      <link>https://kingkairos.com/posts/craft-beer-log/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kingkairos.com/posts/craft-beer-log/</guid>
+      <description>This is a log of my Craft Beer Experiences</description>
+    </item>
+    
     <item>
       <title>Backing it Up</title>
       <link>https://kingkairos.com/posts/backing-it-up/</link>
@@ -44,16 +53,6 @@
       
       <guid>https://kingkairos.com/posts/teaching-myself-github/</guid>
       <description>Learning GitHub to improve my productivity and workflow</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kingkairos.com/posts/craft-beer-log/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kingkairos.com/posts/craft-beer-log/</guid>
-      <description>TL;DR This is my personal Craft Beer log to document and describe my feelings towards the different Craft Beers I&amp;rsquo;ve tried!
-Full Story This log will be (hopefully) presented in Alphabetical Order. I am going to do my best to seriously describe and rate every beer that I am sitting down to enjoy in my own home. I will also try to make sure I get a picture of each beer after first pour alongside the can/bottle.</description>
     </item>
     
   </channel>
